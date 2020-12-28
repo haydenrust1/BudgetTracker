@@ -1,6 +1,7 @@
   # Employee Tracker
 
   ![License](https://img.shields.io/badge/license-MIT-blue)
+  [Link to Site](https://budget-tracker-uo.herokuapp.com/)
 
   ## Description
   * This application allows the user to maintain a budget through tracking spending and money earned, wether the user is online or offline!
